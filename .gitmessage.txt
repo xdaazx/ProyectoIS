@@ -1,0 +1,17 @@
+# Título (máx 72 caracteres): tipo(scope): resumen corto
+feat(reservas): validar fecha/hora y bloquear duplicados
+
+# Descripción:
+- Qué cambiaste y por qué (contexto)
+- Riesgos/impacto
+- Dependencias
+
+# Evidencia de pruebas:
+- Pruebas unitarias: passed (12/12)
+- Pruebas integración: passed (login→reserva)
+- CP-03 Reserva de mesa: Aprobado
+- Logs/Capturas: /evidencias/2025-10-29/CP-03.png
+
+# Issue/Ref:
+- ERS: RF-RES-002
+- Caso prueba: CP-03
